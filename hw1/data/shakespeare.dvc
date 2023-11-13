@@ -1,0 +1,6 @@
+outs:
+- md5: 5692a80f8e2d254ca1a7cef9baeb5cd2.dir
+  size: 1766408
+  nfiles: 3
+  hash: md5
+  path: shakespeare
