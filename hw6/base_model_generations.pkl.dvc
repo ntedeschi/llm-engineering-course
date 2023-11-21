@@ -1,0 +1,5 @@
+outs:
+- md5: 2bb21138a6f2b2464c40beb8cc956ce8
+  size: 36368
+  hash: md5
+  path: base_model_generations.pkl
