@@ -1,0 +1,6 @@
+outs:
+- md5: 038a980802497465caa2b23125890e2b.dir
+  size: 331862520
+  nfiles: 8
+  hash: md5
+  path: reward_model
